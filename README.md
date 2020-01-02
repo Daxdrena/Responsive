@@ -11,6 +11,6 @@ I close everythings, re-open, and all was gone, nothing is good, i don't underst
 
 Is not a problem, I go forward, I can come back for try later !
 
-02/01/2020 
+02/01/2020 : Yes I give up, I'm not realy ok with that, but my skill isn't enougth for this now, is ok, I will come back stronger !
 
 ![GitHub Logo](/images/becode.png)
