@@ -1,0 +1,51 @@
+body {
+    text-align: center;
+}
+@media only screen and (max-width: 300px) {
+    body {
+        background-color: red;
+        font-size: 115%;
+    }
+    /*#medium {
+        display: none;
+    }
+    #large {
+        display: none;
+    }*/
+}
+@media only screen and (min-width: 301px) and (max-width: 768px) {
+    body {
+        background-color: green;
+        font-size: 100%;
+    }
+    #small {
+        max-width: 66%;
+        margin: auto;
+    }
+    #medium {
+        max-width: 33%;
+        margin: auto;
+    }
+    /*#small {
+        display: none;
+    }
+    #large {
+        display: none;
+    }*/
+}
+@media only screen and (min-width: 769px) {
+    body {
+        background-color: blue;
+        font-size: 85%;
+    }
+    #SmallMediumLarge {
+        display: flex;
+        flex-flow: row;
+    }
+    /*#small {
+        display: none;
+    }
+    #medium {
+        display: none;
+    }*/
+}
